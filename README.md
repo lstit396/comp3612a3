@@ -8,8 +8,8 @@
 [A specific year range.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/year/1900/2000)\
 [An inverted year range.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/year/2000/1900)\
 [An empty year range](https://cyan-wise-xenoposeidon.glitch.me/api/painting/year/2100/2200)\
-[A specific title search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/title/text/Mother)\
-[An empty title search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/title/text/Elephant)\
+[A specific title search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/title/Mother)\
+[An empty title search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/title/Elephant)\
 [A hex-color search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/color/402F18)\
 [A non-present hex-color search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/color/FFFFFF)\
 [All artists.](https://cyan-wise-xenoposeidon.glitch.me/api/artists)\
