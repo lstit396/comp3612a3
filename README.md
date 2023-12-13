@@ -13,8 +13,8 @@
 [A hex-color search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/color/402F18)\
 [A non-present hex-color search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/color/FFFFFF)\
 [All artists.](https://cyan-wise-xenoposeidon.glitch.me/api/artists)\
-[Artists from a particular country.](https://cyan-wise-xenoposeidon.glitch.me/api/artists/US)\
-[Artists from a non-represented country.](https://https://cyan-wise-xenoposeidon.glitch.me/api/artists/Canada)\
+[Artists from a particular country.](https://cyan-wise-xenoposeidon.glitch.me/api/artists/USA)\
+[Artists from a non-represented country.](https://cyan-wise-xenoposeidon.glitch.me/api/artists/Canada)\
 [All galleries.](https://cyan-wise-xenoposeidon.glitch.me/api/galleries)\
 [All galleries from a particular country.](https://cyan-wise-xenoposeidon.glitch.me/api/galleries/USA)\
 [All galleries from a non-represented country.](https://cyan-wise-xenoposeidon.glitch.me/api/galleries/Botswana)
