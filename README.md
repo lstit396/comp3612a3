@@ -1,4 +1,4 @@
-[All paintings.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/512/api/paintings)\
+[All paintings.](https://cyan-wise-xenoposeidon.glitch.me/api/paintings)\
 [A specific painting.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/512)\
 [A non-present painting.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/5555)\
 [A specific gallery.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/gallery/51)\
