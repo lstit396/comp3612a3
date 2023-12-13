@@ -10,11 +10,11 @@
 [An empty year range](https://cyan-wise-xenoposeidon.glitch.me/api/painting/year/2100/2200)\
 [A specific title search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/title/text/Mother)\
 [An empty title search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/title/text/Elephant)\
-[A hex-color search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/color/402F18)\
+[A hex-color search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/color/40FF18)\
 [A non-present hex-color search.](https://https://cyan-wise-xenoposeidon.glitch.me/api/painting/color/FFFFFF)\
 [All artists.](https://cyan-wise-xenoposeidon.glitch.me/api/artists)\
-[Artists from a particular country.](https://cyan-wise-xenoposeidon.glitch.me/api/artists/UK)\
+[Artists from a particular country.](https://cyan-wise-xenoposeidon.glitch.me/api/artists/US)\
 [Artists from a non-represented country.](https://https://cyan-wise-xenoposeidon.glitch.me/api/artists/Canada)\
 [All galleries.](https://cyan-wise-xenoposeidon.glitch.me/api/galleries)\
 [All galleries from a particular country.](https://cyan-wise-xenoposeidon.glitch.me/api/galleries/USA)\
-[All galleries from a non-represented country.](https://cyan-wise-xenoposeidon.glitch.me/api/galleries/Botswana)\
+[All galleries from a non-represented country.](https://cyan-wise-xenoposeidon.glitch.me/api/galleries/Botswana)
