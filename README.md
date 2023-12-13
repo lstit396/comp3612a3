@@ -12,7 +12,7 @@
 [An empty title search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/title/Elephant)\
 [A hex-color search.](https://cyan-wise-xenoposeidon.glitch.me/api/painting/color/402F18)\
 [A non-present hex-color search.](https://https://cyan-wise-xenoposeidon.glitch.me/api/painting/color/FFFFFF)\
-[All artists.](https://cyan-wise-xenoposeidon.glitch.me/api/arists)\
+[All artists.](https://cyan-wise-xenoposeidon.glitch.me/api/artists)\
 [Artists from a particular country.](https://cyan-wise-xenoposeidon.glitch.me/api/artists/UK)\
 [Artists from a non-represented country.](https://https://cyan-wise-xenoposeidon.glitch.me/api/artists/Canada)\
 [All galleries.](https://cyan-wise-xenoposeidon.glitch.me/api/galleries)\
